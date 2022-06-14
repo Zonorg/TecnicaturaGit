@@ -1,5 +1,5 @@
 # Sentencia if/else
-'''condicion = True
+condicion = True
 if condicion == True:
     print('Condición Verdadera')
 elif condicion == False:
@@ -23,4 +23,3 @@ print(f'El número ingresado es: {num} - {numText}')
 
 condicion = True
 print('Condición verdadera') if condicion else print('Condición falsa')
-'''
