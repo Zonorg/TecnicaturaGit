@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e5540f6-394c-4b1d-b2e1-57c691e90f37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejercicio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/build.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/build/classes/.netbeans_automatic_build" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/build/classes/.netbeans_update_resources" beforeDir="false" />
@@ -16,14 +17,15 @@
       <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/nbproject/project.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/nbproject/project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/src/clases/Clases.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicios/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicios/manifest.mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicios/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicios/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicios/nbproject/private/private.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicios/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicios/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicios/src/ejercicios/Ejercicios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/src/ejercicio1/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +51,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Renzo/Downloads/Python/Python/leccionDos/Ejercicio3.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Renzo/Downloads/Python/Python/leccionDos/Ejercicio3.py&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Renzo\TecnicaturaGit\Python\Leccion1" />
