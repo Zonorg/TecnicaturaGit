@@ -18,7 +18,7 @@ min = 1
 cont = 5
 while cont >= min:
     print(cont)
-    cont -= 1'''
+    cont -= 1
 
 # Ciclo for
 chain = 'Hello'
@@ -28,3 +28,20 @@ else:
     print('Fin del ciclo for')
 
 # Break
+for letter in 'Alemania':
+    if letter == 'a':
+        print(f'Letra encontrada: {letter}')
+else:
+        print('Fin del ciclo for')
+'''
+# Continue
+for i in range(6):
+    if i % 2 == 0:
+        print(f'Valor: {i}')
+
+for i in range(6):
+    if i % 2 != 0:
+        continue #En este caso anula todos los números impares
+    print(f'Valor: {i}')
+
+

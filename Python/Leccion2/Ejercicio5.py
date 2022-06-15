@@ -1,4 +1,4 @@
-# Ejercicio 5: sistema de califiaciones
+# Ejercicio 5: sistema de calificaciones
 calificacion  = int(input('Digite una calificación entre 0 y 10 \n'))
 
 if 9 <= calificacion <= 10:

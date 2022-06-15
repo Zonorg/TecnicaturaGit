@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e5540f6-394c-4b1d-b2e1-57c691e90f37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejercicio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/build/classes/.netbeans_automatic_build" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/build/classes/.netbeans_update_resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/build/classes/clases/Clases.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/manifest.mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/nbproject/private/private.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/nbproject/private/private.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Clases/src/clases/Clases.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/manifest.mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/nbproject/private/private.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio 1/src/ejercicio1/Ejercicio1.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leccion2/Ejercicio3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leccion3/Leccion3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Leccion3/Leccion3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sistema/clase9" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sistema/clase9" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +39,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Renzo/Downloads/Python/Python/leccionDos/Ejercicio3.py&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Renzo/TecnicaturaGit/Python/Leccion2&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -64,6 +48,27 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.main (1)">
+    <configuration name="Leccion1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Leccion1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Renzo\TecnicaturaGit\Python\Leccion1\Leccion1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leccion1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,27 +82,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Leccion2/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Leccion1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
