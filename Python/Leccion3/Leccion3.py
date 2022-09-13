@@ -33,7 +33,7 @@ for letter in 'Alemania':
         print(f'Letra encontrada: {letter}')
 else:
         print('Fin del ciclo for')
-'''
+
 # Continue
 for i in range(6):
     if i % 2 == 0:
@@ -43,5 +43,15 @@ for i in range(6):
     if i % 2 != 0:
         continue #En este caso anula todos los números impares
     print(f'Valor: {i}')
+'''
 
-
+num = 0
+i = 1
+factorial = 1
+while num <= 0:
+    num = int(input('Ingrese un número válido: '))
+    while i <= num:
+        factorial *= num
+        num -= 1
+else:
+    print(f'El factorial es: {factorial}')

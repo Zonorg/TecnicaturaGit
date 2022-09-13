@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e5540f6-394c-4b1d-b2e1-57c691e90f37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Leccion2/Ejercicio3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Leccion3/Leccion3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Leccion3/Leccion3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio 1/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio 1/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio 2/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio 2/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio 3/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio 3/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio 4/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio 4/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio 5/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio 5/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio6/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio6/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio7/build/classes/ejercicio7/integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio7/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio7/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Primer semestre/Ejercicio7/src/ejercicio7/integer.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Sistema/clase9" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sistema/clase9" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
