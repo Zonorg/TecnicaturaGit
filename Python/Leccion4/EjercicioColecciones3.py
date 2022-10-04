@@ -27,3 +27,4 @@ personajes.append(P)
 P = {'Nombre': 'Sauron', 'Clase': 'Guerrero', 'Raza': 'Enano'}
 personajes.append(P)
 print(personajes)
+
