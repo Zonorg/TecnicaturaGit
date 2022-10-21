@@ -1,4 +1,4 @@
-# Ejercicio 01: crear una función para sumar los valores recibidos de tipo numéricos
+# Ejercicio 1: crear una función para sumar los valores recibidos de tipo numéricos
 # utilizando variables *args como parámetro de la función y agregar como resultado la suma
 # de todos loa valores pasados como argumentos.
 
