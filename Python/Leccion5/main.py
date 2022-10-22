@@ -91,5 +91,6 @@ def factorial(numero):
         return 1
     else:
         return numero * factorial(numero-1)  # Caso recursivo
+numeroFactorial = int(input('Digite el número para calcular el factorial: '))
 resultado = factorial(10)  # Lo hacemos en código duro
-print(f'El factorial del número 10 es: {resultado}')
+print(f'El factorial del número {numeroFactorial} es: {resultado}')
