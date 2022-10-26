@@ -4,12 +4,16 @@ Operadores Simplificados
 -=
 *=
 /=
+%=
+**=
 
 Operadores Aritméticos
 +
 -
 *
 /
+%
+**
 
 Operadores de asignación
 =
@@ -21,7 +25,18 @@ Operador de decremento
 --
 
 Operadores de comparación
-==
+== Revisa el valor sin importar el tipo
+=== Revisa el valor y el tipo también
+
+Operador distinto, diferente
+!= Comprueba valores sin importar el tipo
+!== Comprueba valores y también el tipo
+
+Operadores relacionales
+<
+>
+<=
+>=
 
 Documentar
 // = Para una línea de comentario
